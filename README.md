@@ -7,7 +7,7 @@
 
 ## 👤 ABOUT ME
 Hello! I’m **Tan Pancho** 👋  
-I’m a student currently learning **Object-Oriented Programming** in Java and building my skills in Game developer.  
+I’m a student currently learning **Object-Oriented Programming** in Phyton basic fundamentas. 
 
 📸 Here’s a picture of me:  
 ![My Photo](photo.jpg)  
@@ -30,7 +30,7 @@ I’m a student currently learning **Object-Oriented Programming** in Java and b
 
 ## 🎉 FUN FACTS ABOUT ME
 - 🏀 I love playing NBA2K Moblie    
-- 🎵 I listen to music  
+- ☕ I don't like hot coffee
 
 ---
 
