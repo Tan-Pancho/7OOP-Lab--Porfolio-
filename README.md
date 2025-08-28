@@ -40,6 +40,3 @@ Let’s connect! 🌍
 
 ---
 
-theme: jekyll-theme-cayman
-title: "My 7OOP Lab Portfolio"
-description: "This is my personal portfolio for 7OOP Lab Task"
