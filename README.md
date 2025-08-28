@@ -6,7 +6,7 @@
 ---
 
 ## 👤 ABOUT ME
-Hello! I’m **Your Name** 👋  
+Hello! I’m **Tan Pancho** 👋  
 I’m a student currently learning **Object-Oriented Programming** in Java and building my skills in Game developer.  
 
 📸 Here’s a picture of me:  
