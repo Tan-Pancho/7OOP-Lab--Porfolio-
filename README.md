@@ -12,7 +12,7 @@ I’m a student currently learning **Object-Oriented Programming** in Python bas
 
 📸 Here’s a picture of me:  
 ![My photo](https://github.com/Tan-Pancho/7OOP-Lab--Porfolio-/blob/2da87bb9c08793242735e498bb1d1718d7be527d/IMG_20250829_205300.jpg)  
-
+<img src="your-photo-link.jpg" alt="My Photo" width="200" height="200">
 ---
 ### 💡 QUOTES
 •*"Practice makes better"*
