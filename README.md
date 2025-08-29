@@ -11,7 +11,6 @@ a Humble and friedly person and
 I’m a student currently learning **Object-Oriented Programming** in Python basic fundamentals. 
 
 📸 Here’s a picture of me:  
-![My Photo](photo.jpg) 
 <p align="center">
   <img src="IMG_20250829_205300.jpg" alt="My Picture" width="400" hieght="400"/>
 </p>.
