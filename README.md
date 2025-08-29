@@ -1,7 +1,7 @@
 # 7OOP-Lab-Porfolio-
 7OOP Lab task Portfolio 
 
-## 🌟 Welcome to My 7OOP Portfolio 🌟
+##  Welcome to My 7OOP Portfolio 
 
 ---
 
@@ -16,7 +16,7 @@ I’m a student currently learning **Object-Oriented Programming** in Python bas
 </p>.
 
 ---
-### 💡 QUOTES
+###  QUOTES
 •*"Practice makes better"*
 
 ### 💡 AREA OF INTEREST & PROGRAMMING LANGUAGES
@@ -33,7 +33,7 @@ I’m a student currently learning **Object-Oriented Programming** in Python bas
 
 ---
 
-### 🎉 FUN FACTS ABOUT ME
+###  FUN FACTS ABOUT ME
 - 🏀 I love playing NBA2K Moblie    
 - ☕ I don't like hot coffee
 
