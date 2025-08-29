@@ -12,7 +12,7 @@ I’m a student currently learning **Object-Oriented Programming** in Python bas
 
 📸 Here’s a picture of me:  
 <p align="center">
-  <img src="  " alt="My Picture" width="400" hieght="400"/>
+  <img src=" https://github.com/Tan-Pancho/7OOP-Lab--Porfolio-/blob/fde291f09d818b83312d483fb9cf1c4e729a09e3/IMG_20250829_205300.jpg " alt="My Picture" width="400" hieght="400"/>
 </p>.
 
 ---
