@@ -1,7 +1,7 @@
-# 7OOP-Lab--Porfolio-
+# 7OOP-Lab-Porfolio-
 7OOP Lab task Portfolio 
 
-# 🌟 Welcome to My 7OOP Portfolio 🌟
+## 🌟 Welcome to My 7OOP Portfolio 🌟
 
 ---
 
@@ -11,7 +11,7 @@ A Humble and friedly person and
 I’m a student currently learning **Object-Oriented Programming** in Python basic fundamentals. 
 
 📸 Here’s a picture of me:  
-![My photo](https://github.com/Tan-Pancho/7OOP-Lab--Porfolio-/blob/af4bad898659251c080bee373978e1a6bd38a0aa/images%20(8)/myphoto.jpeg)  
+![My photo](  )  
 
 ---
 ### 💡 QUOTES
@@ -19,11 +19,11 @@ I’m a student currently learning **Object-Oriented Programming** in Python bas
 
 ### 💡 AREA OF INTEREST & PROGRAMMING LANGUAGES
 ✨ My interests include:  
-- 📱 Mobile Apps  
-- 🤖 Artificial Intelligence  
+- 📱 Mobile Apps    
 - 🎮 Game Development  
 
-🖥️ Programming Languages I know:  
+🖥️ Programming Languages I know: 
+
 
 ---
 
