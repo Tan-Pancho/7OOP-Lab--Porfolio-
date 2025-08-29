@@ -15,7 +15,7 @@ I’m a student currently learning **Object-Oriented Programming** in Phyton bas
 ---
 
 ## 💡 QUOTES
-**Practice makes better**
+•*"Practice makes better"*
 
 ## 💡 AREA OF INTEREST & PROGRAMMING LANGUAGES
 ✨ My interests include:  
