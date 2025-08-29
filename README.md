@@ -13,7 +13,7 @@ I’m a student currently learning **Object-Oriented Programming** in Python bas
 📸 Here’s a picture of me:  
 ![My photo](.jpg)  
 <p align="center">
-  <img src="IMG_20250829_205300.jpg" alt="My Picture" width="100" hieght="100"/>
+  <img src="IMG_20250829_205300.jpg" alt="My Picture" width="200" hieght="200"/>
 </p>
 
 
