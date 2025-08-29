@@ -10,7 +10,7 @@ Hello! I’m **Tan Pancho** 👋
 I’m a student currently learning **Object-Oriented Programming** in Phyton basic fundamentas. 
 
 📸 Here’s a picture of me:  
-![My Photo](photo.jpg)  
+![Tan tan Pancho](images/photo.jpg)  
 
 ---
 ## 💡 QUOTES
