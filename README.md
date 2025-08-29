@@ -7,12 +7,12 @@
 
 ### 👤 ABOUT ME
 Hello! I’m **Tan Pancho** 👋 
-A Humble and friedly person and 
+a Humble and friedly person and 
 I’m a student currently learning **Object-Oriented Programming** in Python basic fundamentals. 
 
 📸 Here’s a picture of me:  
 <p align="center">
-  <img src="  " alt="My Picture" width="400" hieght="400"/>
+  <img src=" IMG_20250829_205300.jpg " alt="My Picture" width="400" hieght="400"/>
 </p>.
 
 ---
