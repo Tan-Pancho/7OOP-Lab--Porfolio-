@@ -13,7 +13,6 @@ I’m a student currently learning **Object-Oriented Programming** in Phyton bas
 ![My Photo](photo.jpg)  
 
 ---
-
 ## 💡 QUOTES
 •*"Practice makes better"*
 
