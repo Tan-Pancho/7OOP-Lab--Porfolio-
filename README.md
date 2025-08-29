@@ -5,7 +5,7 @@
 
 ---
 
-# 👤 ABOUT ME
+### 👤 ABOUT ME
 Hello! I’m **Tan Pancho** 👋 
 A Humble and friedly person and 
 I’m a student currently learning **Object-Oriented Programming** in Python basic fundamentals. 
@@ -14,10 +14,10 @@ I’m a student currently learning **Object-Oriented Programming** in Python bas
 ![My photo](https://github.com/Tan-Pancho/7OOP-Lab--Porfolio-/blob/af4bad898659251c080bee373978e1a6bd38a0aa/images%20(8)/myphoto.jpeg)  
 
 ---
-# 💡 QUOTES
+### 💡 QUOTES
 •*"Practice makes better"*
 
-# 💡 AREA OF INTEREST & PROGRAMMING LANGUAGES
+### 💡 AREA OF INTEREST & PROGRAMMING LANGUAGES
 ✨ My interests include:  
 - 📱 Mobile Apps  
 - 🤖 Artificial Intelligence  
@@ -27,17 +27,17 @@ I’m a student currently learning **Object-Oriented Programming** in Python bas
 
 ---
 
-# 📂 PROJECT LINKS
+### 📂 PROJECT LINKS
 
 ---
 
-# 🎉 FUN FACTS ABOUT ME
+### 🎉 FUN FACTS ABOUT ME
 - 🏀 I love playing NBA2K Moblie    
 - ☕ I don't like hot coffee
 
 ---
 
-# 📱 CONTACTS
+### 📱 CONTACTS
 Let’s connect! 🌍  
 - 👍 [Facebook](https://facebook.com/09632213477)  
 
