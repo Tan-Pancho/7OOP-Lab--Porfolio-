@@ -8,7 +8,7 @@
 ## 👤 ABOUT ME
 Hello! I’m **Tan Pancho** 👋 
 A Humble and friedly person and 
-I’m a student currently learning **Object-Oriented Programming** in Python basic fundamentas. 
+I’m a student currently learning **Object-Oriented Programming** in Python basic fundamentals. 
 
 📸 Here’s a picture of me:  
 ![My photo](photo.jpg)  
