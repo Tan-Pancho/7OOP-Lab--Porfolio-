@@ -11,7 +11,7 @@ A Humble and friedly person and
 I’m a student currently learning **Object-Oriented Programming** in Python basic fundamentals. 
 
 📸 Here’s a picture of me:  
-![My photo](https://github.com/Tan-Pancho/7OOP-Lab--Porfolio-/blob/23832d7ab4bcd91351b276b5ac842e11ee58c382/images%20(8).jpegphoto.jpg)  
+![My photo](images (8).jpeg)  
 
 ---
 ## 💡 QUOTES
